@@ -43,7 +43,13 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
+https://watch.screencastify.com/v/eR00b2SZDCrXwwkPjToZ
+
+![](./assets/gif/test.gif)
+
 # Links
 
 ## Repository
+
+https://github.com/CPetrevski/09-hw-readme-gen
 
