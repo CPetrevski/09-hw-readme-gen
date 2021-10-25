@@ -64,33 +64,33 @@ inquirer.prompt(
 }) => {
      const template = 
      `
-     # ${title}
+# ${title}
 
-     ## Table of Contents
-     # [Description](#description)
-     # [Installation](#installation)
-     # [Licence](#licence)
+## Table of Contents
+# [Description](#description)
+# [Installation](#installation)
+# [Licence](#licence)
 
-     ## Description
-     ${description}
+## Description
+${description}
 
-     ## Installation
-     ${installation}
+## Installation
+${installation}
 
-     ## Demo
-     Please attach a demo here
+## Demo
+Please attach a demo here
 
-     ## Licence
-     ${licence}
+## Licence
+${licence}
 
-     ## Contribution
-     ${contribute}
+## Contribution
+${contribute}
 
-     ## Github
-     ${git}
+## Github
+${git}
 
-     ## Email
-     ${email}`;
+## Email
+${email}`;
 
      createNewFile(title, template);
 }
